@@ -74,3 +74,7 @@
 .calc-view .grid-table .element.equal input {
   height: 100px;
 }
+
+.FormColor{
+  background-color: rgb(255, 255, 255);
+}
