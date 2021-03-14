@@ -35,7 +35,7 @@ var myNodeList = document.getElementsByTagName('li'),
         } else {
             document.getElementById('ul').appendChild(li);
         }
-    
+
         document.getElementById('input').value = "";
     
         var span = document.createElement('span'),
@@ -51,5 +51,4 @@ var myNodeList = document.getElementsByTagName('li'),
                 div.style.display = 'none';
             }
         }
-    
     }
