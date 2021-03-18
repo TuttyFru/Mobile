@@ -11,7 +11,7 @@ var vue = new Vue({
             this.result+=char;
         },
         reset: function(){
-            this.reset='';
+            this.result='';
         },
         calc: function(){
             this.result=eval(this.result);
